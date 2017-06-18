@@ -17,7 +17,7 @@ title: A Disgusting Attempt
 email: joshuadmcdonald@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     Trying is a mug's game.
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: joshuadmcdonald 
 github_username:  joshmcd
 url: "https://github.com/joshmcd/github.io"
