@@ -20,11 +20,10 @@ description: > # this means to ignore newlines until "baseurl:"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: joshuadmcdonald 
 github_username:  joshmcd
-baseurl: "test_site"
 url: "https://github.com/joshmcd/github.io"
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-tactile 
+theme: minima 
 gems:
   - jekyll-feed
 exclude:
