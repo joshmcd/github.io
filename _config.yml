@@ -23,7 +23,7 @@ github_username:  joshmcd
 url: "https://github.com/joshmcd/github.io"
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-modernist 
+theme: minima
 gems:
   - jekyll-feed
 exclude:
