@@ -1,16 +1,11 @@
 ---
 layout: post
-title:  "extravaganza!"
+title:  "The Damn Deer Keep Eating my Tomatoes"
 date:   2017-04-16 11:51:10 -0400
 categories: jekyll update
 ---
-Inauguration Timelapse
 
-<video width="320" height="240" controls>
-   <source src="{{ site.url }}/assets/video/Inauguration_Timelapse.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-   </video>
-
+And they don't even like tomatoes, but they have to <em>make sure</em> they don't like them, apparently.
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
