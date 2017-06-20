@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "extravaganza!"
+date:   2017-04-16 11:51:10 -0400
+categories: jekyll update
+---
+
+My understanding is that markdown should <i>just work</i> on this . . . 
